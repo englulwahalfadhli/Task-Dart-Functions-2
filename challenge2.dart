@@ -19,9 +19,9 @@ void greet(String name) {
  * isOdd(7) -> true
  * isOdd(10) -> false
  */
-bool isOdd(int n) {
-  // Your code here
-}
+// bool isOdd(int n) {
+//   // Your code here
+// }
 
 /**
  * oddsSmallerThan(n):
@@ -32,9 +32,9 @@ bool isOdd(int n) {
  * oddsSmallerThan(7) -> 3
  * oddsSmallerThan(15) -> 7
  */
-int oddsSmallerThan(int n) {
+//int oddsSmallerThan(int n) {
   // Your code here
-}
+//}
 
 /**
  * squareOrDouble(n):
@@ -46,6 +46,6 @@ int oddsSmallerThan(int n) {
  * squareOrDouble(16) -> 32
  * squareOrDouble(9) -> 81
  */
-int squareOrDouble(int n) {
+//int squareOrDouble(int n) {
   // Your code here
-}
+//}
